@@ -1,0 +1,24 @@
+begin 
+assign a 1 
+assign a 100 
+assign b 2 
+begin 
+assign a 5
+assign d 8 
+assign c 4 
+assign e 10 
+print d 
+print b 
+begin 
+assign c 5 
+print b 
+print a 
+print c 
+end 
+print a 
+print c 
+print e 
+end 
+print a 
+print e 
+end 
